@@ -3,7 +3,7 @@ const { SECOND, HOUR } = require('./helpers/constants');
 module.exports = {
   development: true,
   prefix: '!',
-  token: process.env.DISCORD_BOT_TOKEN,
+  token: 'MTM2ODYzNDQ2NDIzMzcyMTk3Ng.GEkJdg.vxBV8kc-boZTCalkEZONp-V1IlWsd3o2Egn06E',
   // Image source website base
   website: 'https://pokeclicker.com/',
   // Wiki base link
